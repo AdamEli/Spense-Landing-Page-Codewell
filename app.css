@@ -253,6 +253,9 @@ a {
         padding-left: 5em;
         padding-right: 5em;
     }
+    .intro-text {
+        max-width: 50em;
+    }
     .intro-title {
         margin-top: 7%;
     }
@@ -262,6 +265,7 @@ a {
     .intro {
         /* display: flex; */
         flex-direction: row;
+        justify-content: space-between;
         gap: 1em;
     }
     .intro-img {
