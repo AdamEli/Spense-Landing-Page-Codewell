@@ -253,6 +253,9 @@ a {
         padding-left: 5em;
         padding-right: 5em;
     }
+    .intro-title {
+        margin-top: 7%;
+    }
     .footer {
         display: flex;
     }
